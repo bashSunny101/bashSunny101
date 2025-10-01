@@ -22,7 +22,12 @@
 
 ## 🏅 Achievements & Badges
 
-[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/e7937628-70c4-49b6-a346-6cb01efc7683?tab=badges&badge=first-design)
+<p align="center">
+  <a href="https://cloud.layer5.io/user/e7937628-70c4-49b6-a346-6cb01efc7683?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="150"/>
+  </a>
+</p>
+
 
 ---
 
