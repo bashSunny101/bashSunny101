@@ -23,10 +23,14 @@
 ## 🏅 Achievements & Badges
 
 <p align="center">
-  <a href="https://cloud.layer5.io/user/e7937628-70c4-49b6-a346-6cb01efc7683?tab=badges&badge=first-design">
+  <a href="https://cloud.layer5.io/user/e7937628-70c4-49b6-a346-6cb01efc7683?tab=badges&badge=first-design" style="margin-right:20px;">
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="150"/>
   </a>
+  <a href="https://www.credly.com/badges/0eefb688-e194-4c90-887c-95affbeea280">
+    <img src="./lfel1006-securing-projects-with-openssf-scorecard.png" alt="Securing Projects with OpenSSF Scorecard" width="150"/>
+  </a>
 </p>
+
 
 
 ---
