@@ -30,7 +30,7 @@ const sunny = {
         frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
         backend: ["Node.js", "Express", "Django", "Spring Boot"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        tools: ["Docker", "Git", "AWS", "Linux"]
+        tools: ["Docker", "Git", "Linux"]
     },
     currentlyLearning: "Microservices Architecture & System Design",
     openToCollaborate: true
