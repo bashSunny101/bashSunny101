@@ -149,6 +149,33 @@ const sunny = {
 
 <div align="center">
 
+### 🚀 [Acquisitions API](https://github.com/bashSunny101/acquisitions)
+**Production-ready RESTful API with advanced security & CI/CD**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+Modern backend with JWT auth • Rate limiting & bot protection • Full CI/CD pipeline • Docker containerization • 38% test coverage
+
+[![Lint and Format](https://github.com/bashSunny101/acquisitions/actions/workflows/lint-and-format.yml/badge.svg)](https://github.com/bashSunny101/acquisitions/actions/workflows/lint-and-format.yml)
+[![Tests](https://github.com/bashSunny101/acquisitions/actions/workflows/tests.yml/badge.svg)](https://github.com/bashSunny101/acquisitions/actions/workflows/tests.yml)
+[![Docker Build](https://github.com/bashSunny101/acquisitions/actions/workflows/docker-build-and-push.yml/badge.svg)](https://github.com/bashSunny101/acquisitions/actions/workflows/docker-build-and-push.yml)
+
+**Key Features:**
+- 🔐 JWT Authentication & Role-based Access Control
+- 🛡️ Arcjet Security (Bot Detection, Rate Limiting)
+- 🐳 Multi-stage Docker builds & Docker Compose
+- 🔄 Automated CI/CD with GitHub Actions
+- 🗄️ PostgreSQL with Drizzle ORM
+- 🧪 Jest testing with coverage reports
+
+[![View Repo](https://img.shields.io/badge/View-Repository-339933?style=for-the-badge&logo=github)](https://github.com/bashSunny101/acquisitions)
+
+---
+
 ### 🌟 [SmartController-SIH](https://github.com/bashSunny101/SmartController-SIH)
 **My most "successful" project with 1 whole star and 2 forks!**
 
@@ -160,30 +187,6 @@ Built for Smart India Hackathon • Actually has working features • Uses React
 
 [![Stars](https://img.shields.io/github/stars/bashSunny101/SmartController-SIH?style=for-the-badge)](https://github.com/bashSunny101/SmartController-SIH)
 [![Forks](https://img.shields.io/github/forks/bashSunny101/SmartController-SIH?style=for-the-badge)](https://github.com/bashSunny101/SmartController-SIH)
-
----
-
-### 🐳 [kubernetes-demo](https://github.com/bashSunny101/kubernetes-demo)
-**Learning containers and orchestration**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-Following tutorials • Has a LEARNING_GUIDE.md • Simple Node.js deployment practice
-
-[![View Repo](https://img.shields.io/badge/View-Repository-2496ED?style=for-the-badge&logo=github)](https://github.com/bashSunny101/kubernetes-demo)
-
----
-
-### 🍳 [odin-recipes](https://github.com/bashSunny101/odin-recipes)
-**HTML learning from The Odin Project**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-Basic HTML practice • Part of curriculum • Everyone starts somewhere!
-
-[![View Repo](https://img.shields.io/badge/View-Repository-E34F26?style=for-the-badge&logo=github)](https://github.com/bashSunny101/odin-recipes)
 
 </div>
 
@@ -223,6 +226,7 @@ Most of my other 16 repos are:
 - ✅ Deployed to Vercel (it crashed, but deployed!)
 - ✅ Understood Docker (sort of)
 - ✅ Can center a div (took 3 months)
+- ✅ Built a production-ready API with CI/CD!
 
 </td>
 </tr>
@@ -235,11 +239,13 @@ Most of my other 16 repos are:
 ```yaml
 Currently Learning:
   - React: Still learning the hooks
-  - Node.js & Express: Copying examples mostly
+  - Node.js & Express: Getting better at it!
+  - PostgreSQL & Drizzle ORM: Database queries
   - Kubernetes: Watching tutorials
   - Clean Code: Future goal
 
 Currently Building:
+  - Acquisitions API (production-ready backend)
   - Tutorial projects (hoping to finish)
   - Small apps to understand concepts
   - A portfolio that's not a template
