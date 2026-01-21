@@ -22,11 +22,13 @@ Look, I'm not going to pretend to be a senior full-stack developer with years of
 ```javascript
 const sunny = {
     location: "India 🇮🇳",
-    actualRole: "Student / Junior Developer",
+    actualRole: "Student / Junior Developer / Security Enthusiast",
     honestSkills: [
         "JavaScript (basics)", 
         "HTML/CSS", 
-        "Python (learning)", 
+        "Python (building security tools!)", 
+        "Bash scripting",
+        "Security reconnaissance",
         "Copying from Stack Overflow"
     ],
     realityCheck: {
@@ -37,16 +39,25 @@ const sunny = {
         ],
         backend: [
             "Node.js (learning)", 
-            "Express (copy-paste mostly)"
+            "Express (copy-paste mostly)",
+            "Python (actually building stuff!)"
         ],
-        databases: ["MongoDB (when it works)"],
+        security: [
+            "OSINT & Reconnaissance",
+            "Subdomain enumeration",
+            "Security automation with Python",
+            "Bug bounty (learning the ropes)"
+        ],
+        databases: ["MongoDB (when it works)", "PostgreSQL (getting better)"],
         tools: [
             "Git (still confuse push and pull)", 
-            "Docker (what's a container?)"
+            "Docker (what's a container?)",
+            "Nmap, Subfinder, Httpx (security arsenal)"
         ]
     },
     currentlyLearning: "Everything. Seriously, everything.",
-    portfolioStatus: "19 repos, 2 have stars, most are unfinished",
+    latestProject: "AutoRecon - Automated reconnaissance framework 🔍",
+    portfolioStatus: "20 repos, 3 have stars, most are unfinished",
     openToCollaborate: true,
     willingToLearn: "Absolutely! 💯"
 };
@@ -149,7 +160,42 @@ const sunny = {
 
 <div align="center">
 
-### 🚀 [Acquisitions API](https://github.com/bashSunny101/acquisitions)
+### � [AutoRecon](https://github.com/bashSunny101/AutoRecon) ⭐ LATEST
+**Automated Reconnaissance Framework for Bug Bounty Hunters**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-0078D4?style=flat-square&logo=nmap&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-FF6B6B?style=flat-square&logo=security&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+Modular Python framework automating the reconnaissance phase • 5-Phase pipeline • Professional reports with risk analysis • OSINT & passive recon
+
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/bashSunny101/AutoRecon/blob/main/LICENSE)
+
+**🎯 Key Features:**
+- 🔍 **5-Phase Automated Pipeline** - Complete reconnaissance workflow from subdomain discovery to reporting
+- 🎯 **Subdomain Enumeration** - Powered by Subfinder with Certificate Transparency
+- 🌐 **Live Host Detection** - Multi-threaded HTTP/HTTPS probing with Httpx
+- 🔓 **Port Scanning** - Service version detection with Nmap (top 1000 ports)
+- 📜 **URL Collection** - Historical endpoint discovery via Wayback Machine
+- 📊 **Professional Reports** - Comprehensive summaries with risk categorization
+- 🧩 **Modular Architecture** - Run phases independently or together
+- 📁 **Organized Results** - Structured output per target
+
+**🔄 Automated Workflow:**
+```
+Subfinder → Httpx → Nmap → Waybackurls → Report Generation
+```
+
+**🛠️ Tech Stack:** Python • Subfinder • Httpx • Nmap • Waybackurls • Go
+
+[![View Repo](https://img.shields.io/badge/View-Repository-3776AB?style=for-the-badge&logo=github)](https://github.com/bashSunny101/AutoRecon)
+
+---
+
+### �🚀 [Acquisitions API](https://github.com/bashSunny101/acquisitions)
 **Production-ready RESTful API with advanced security & CI/CD**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -193,13 +239,13 @@ Built for Smart India Hackathon • Actually has working features • Uses React
 <details>
 <summary>📂 Other Repos (The Real Talk)</summary>
 
-Most of my other 16 repos are:
+Most of my other 17 repos are:
 - 📚 Tutorial follow-alongs (MERN-Learning, StartedBackend, Backend)
 - 🧪 Experiments that didn't go anywhere
 - 📝 Course exercises (git_test, skills-communicate-using-markdown)
 - 🗃️ Abandoned projects (we don't talk about those)
 
-**Total Stars Across All Repos:** 3 🌟
+**Total Stars Across All Repos:** Still counting... 🌟
 
 </details>
 
@@ -221,12 +267,15 @@ Most of my other 16 repos are:
 <td width="50%">
 
 ### 📜 Real Accomplishments
-- ✅ Got 3 total stars on GitHub
+- ✅ Built AutoRecon: automated security framework 🔍
+- ✅ Created production-ready API with CI/CD 🚀
+- ✅ Learning cybersecurity & bug bounty hunting 🛡️
+- ✅ Got 3+ total stars on GitHub
 - ✅ Merged a PR (someone else's repo!)
 - ✅ Deployed to Vercel (it crashed, but deployed!)
 - ✅ Understood Docker (sort of)
 - ✅ Can center a div (took 3 months)
-- ✅ Built a production-ready API with CI/CD!
+- ✅ Integrated multiple security tools in one framework
 
 </td>
 </tr>
@@ -238,23 +287,34 @@ Most of my other 16 repos are:
 
 ```yaml
 Currently Learning:
+  - Python Security Tools: Building AutoRecon framework
   - React: Still learning the hooks
   - Node.js & Express: Getting better at it!
   - PostgreSQL & Drizzle ORM: Database queries
   - Kubernetes: Watching tutorials
+  - Cybersecurity: OSINT & reconnaissance techniques
   - Clean Code: Future goal
 
 Currently Building:
-  - Acquisitions API (production-ready backend)
-  - Tutorial projects (hoping to finish)
+  - AutoRecon: Automated bug bounty reconnaissance framework ⭐
+  - Acquisitions API: Production-ready backend with CI/CD
+  - Tutorial projects: Hoping to finish
   - Small apps to understand concepts
   - A portfolio that's not a template
 
-Realistic 2025 Goals:
-  - Get a real job as a developer
-  - Contribute to open source without breaking things
+Recent Accomplishments:
+  - ✅ Built AutoRecon with 5-phase automated pipeline
+  - ✅ Integrated industry-standard security tools
+  - ✅ Created modular Python architecture
+  - ✅ Production API with JWT auth & CI/CD
+  - ✅ Learning cybersecurity & bug bounty hunting
+
+Realistic 2026 Goals:
+  - Get a real job as a developer or security researcher
+  - Contribute to open source security projects
+  - Find my first bug bounty
+  - Master Python for security automation
   - Build one project people actually use
-  - Understand async/await properly
   - Maybe learn TypeScript?
 ```
 
