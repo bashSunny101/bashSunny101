@@ -157,7 +157,7 @@ sunny_pal = {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Security](https://img.shields.io/badge/-Threat_Intel-FF6B6B?style=flat-square&logo=security&logoColor=white)
 
-Distributed honeypot network capturing **300+ real attacks in 24 hours** • Live attack visualization • Automated threat intelligence • MITRE ATT&CK mapping
+Distributed honeypot network capturing **11000+ real attacks in 24 hours** • Live attack visualization • Automated threat intelligence • MITRE ATT&CK mapping
 
 **🎯 What It Does:**
 
